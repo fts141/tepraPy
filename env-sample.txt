@@ -1,0 +1,5 @@
+# .env
+
+TEPRAPY_SPC10PATH = "C:\Program Files (x86)\KING JIM\TEPRA Label Editor SPC10\SPC10.exe"
+TEPRAPY_LABELPATH = ""
+TEPRAPY_CSVPATH = ""
